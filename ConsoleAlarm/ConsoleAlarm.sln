@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAlarm", "ConsoleAlarm\ConsoleAlarm.csproj", "{4762512C-60F2-4274-831A-6B96502149CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4762512C-60F2-4274-831A-6B96502149CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4762512C-60F2-4274-831A-6B96502149CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4762512C-60F2-4274-831A-6B96502149CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4762512C-60F2-4274-831A-6B96502149CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {892C244D-9C44-4C2C-90E8-C1E468953D09}
+	EndGlobalSection
+EndGlobal
